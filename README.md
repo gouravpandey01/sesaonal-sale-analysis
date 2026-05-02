@@ -1,1 +1,0 @@
-# sesaonal-sale-analysis
